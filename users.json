@@ -1,0 +1,1 @@
+{\n  "users": [\n    {\n      "username": "admin",\n      "password": "admin123",\n      "role": "administrator"\n    }\n  ]\n}
